@@ -1,0 +1,1 @@
+This is Konstantinas's first git project!
